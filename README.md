@@ -1,3 +1,18 @@
+<p align="center">
+<h3>Terminal</h3>
+<pre>git clone https://github.com/cemtaner/laravel9-roles-and-permissions-crm-starter-kit.git</pre>
+<pre>composer update</pre>
+<pre>npm install</pre>
+<pre>npm run dev</pre>
+<pre>php artisan migrate</pre>
+<pre>php artisan db:seed --class=PermissionTableSeeder</pre>
+<pre>php artisan db:seed --class=CreateAdminUserSeeder</pre>
+<pre>php artisan serve</pre>
+<pre>http://localhost:8000/</pre>
+<p>user: admin@cemtaner.com<br>
+password: 123456</p>
+</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
